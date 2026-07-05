@@ -14,6 +14,25 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.11%2B-blue.svg" alt="Python 3.11+"></a>
 </p>
 
+> [!IMPORTANT]
+> **Quadro is archived and read-only as of July 2026.**
+>
+> Quadro started as a beef. During a presentation on how to orchestrate models,
+> I watched two agents spend three minutes negotiating who would open a file —
+> funny at the time, less funny as a bill. I wanted to investigate avenues to
+> overcome that direction, where coordination overhead was treated as invisible,
+> and Quadro grew into a full answer to how multi-agent work can be governed:
+> shared state, enforced lifecycles, and the conviction that activity is not
+> progress.
+>
+> The industry has since converged on a saner, more economical shape and direction, fewer
+> committees of agents, more single capable models in long-running harnesses,
+> creative where it counts and out of the massive coordination loop where the
+> waste lived. Much of what Quadro argued for got absorbed into that consensus —
+> a win for all.
+>
+> The code stays up as a complete, tested reference. Issues and PRs are closed;
+> left as MIT-licensed
 
 ---
 
