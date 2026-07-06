@@ -15,8 +15,15 @@
 </p>
 
 > [!IMPORTANT]
-> **Status: archived.** This is a complete, functional v0.1 reference implementation of the Reactive Governed Blackboard pattern. It is preserved as a design and pattern reference rather than a maintained library. All examples and the full test suite run as documented.
-
+> **Status: archived.**  
+> Quadro started as a beef. I watched two agents spend three minutes negotiating who would open a file and decided that coordination overhead shouldn’t be invisible. It grew into a full answer to how multi-agent work can actually be governed — shared durable state, enforced lifecycles, and the conviction that activity is not progress.
+>
+> > Every token spent should correspond to either a governed task execution or a coordinator decision — and if the Chief wakes and finds nothing to act on, the telemetry records it as a no-op. That is measurable waste, not invisible overhead.
+>
+> The industry has since moved toward a saner, more economical shape: fewer committees of agents, more capable models working inside proper long-running harnesses, creative where it matters and out of the endless coordination loops where most of the waste was happening. A lot of what Quadro was arguing for got absorbed into that direction. A win for everyone.
+>
+> The code stays up as a complete, tested reference. Issues and PRs are closed. It’s MIT-licensed — fork it, study it, or lift whatever is useful.
+> 
 ---
 
 ## Contents
